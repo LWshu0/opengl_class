@@ -1,0 +1,9 @@
+.vscode
+build/**
+!build/make_build.bat
+hw
+run/lib/**
+run/bin/*.exe
+run/bin/Object/**
+!run/bin/Object/World
+!run/bin/Object/*.v
